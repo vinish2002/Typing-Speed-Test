@@ -93,6 +93,7 @@ function processCurrentText() {
         input_area.value = ""; // clear input area 
     }
 }
+
 function startGame() {
     resetValues();
     updateQuote();
