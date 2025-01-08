@@ -10,8 +10,8 @@ let quotes_array = [
     "How razorback-jumping frogs can level six piqued gymnasts.",
     "Crazy Fredericka bought many very exquisite opal jewels.",
     "The quick onyx goblin jumps over the lazy dwarf.",
-    "The five boxing wizards jump quickly.",
-    "Quick zephyrs blow, vexing daft Jim."
+    "Quick zephyrs blow, vexing daft Jim.",
+    "The five boxing wizards jump quickly."
 ];
 
 // required elements
