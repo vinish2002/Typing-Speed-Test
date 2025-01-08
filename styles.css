@@ -31,7 +31,12 @@ body {
     border-radius: 10px;
 }
 
-@media only screen and (max-width: 56.25em) {}
+@media only screen and (max-width: 56.25em) {
+    .container {
+        padding: 50px;
+    }
+
+}
 
 
 .heading {
