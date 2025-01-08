@@ -34,6 +34,7 @@ body {
 @media only screen and (max-width: 56.25em) {
     .container {
         padding: 50px;
+        padding-bottom: 30px;
     }
 
 }
