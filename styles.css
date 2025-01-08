@@ -46,7 +46,12 @@ body {
 }
 
 
-@media only screen and (max-width: 56.25em) {}
+@media only screen and (max-width: 56.25em) {
+    .heading {
+        font-size: 2.5rem;
+        font-weight: 200px;
+    }
+}
 
 .header {
     display: flex;
