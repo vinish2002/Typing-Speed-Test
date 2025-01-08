@@ -12,7 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     border-radius: 20px;
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(10px);
 }
 
 .container {
