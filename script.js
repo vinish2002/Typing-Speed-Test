@@ -120,6 +120,7 @@ function resetValues() {
     cpm_group.style.display = "none";
     wpm_group.style.display = "none";
 }
+
 function updateTimer() {
     if (timeLeft > 0) {
         timeLeft--;
