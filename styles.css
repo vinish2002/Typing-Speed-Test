@@ -110,6 +110,14 @@ body {
     font-weight: 600;
 }
 
+
+
+@media only screen and (max-width: 56.25em) {
+    .header_text {
+        font-size: 0.5rem;
+    }
+}
+
 .curr_errors,
 .curr_cpm,
 .curr_wpm,
