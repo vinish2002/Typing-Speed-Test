@@ -8,8 +8,8 @@ let quotes_array = [
     "Brawny gods just flocked up to quiz and vex him.",
     "We promptly judged antique ivory buckles for the next prize.",
     "How razorback-jumping frogs can level six piqued gymnasts.",
-    "Crazy Fredericka bought many very exquisite opal jewels.",
     "Quick zephyrs blow, vexing daft Jim.",
+    "Crazy Fredericka bought many very exquisite opal jewels.",
     "The quick onyx goblin jumps over the lazy dwarf.",
     "The five boxing wizards jump quickly."
 ];
