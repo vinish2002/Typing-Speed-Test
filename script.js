@@ -3,11 +3,11 @@ let TIME_LIMIT = 60;
 
 // typable quotes 
 let quotes_array = [
+    "Quick zephyrs blow, vexing daft Jim.",
     "Woven silk pyjamas exchanged for blue quartz.",
     "The vixen jumped quickly on her frozen sled.",
     "Brawny gods just flocked up to quiz and vex him.",
     "The five boxing wizards jump quickly.",
-    "Quick zephyrs blow, vexing daft Jim.",
     "We promptly judged antique ivory buckles for the next prize.",
     "How razorback-jumping frogs can level six piqued gymnasts.",
     "Crazy Fredericka bought many very exquisite opal jewels.",
