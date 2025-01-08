@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    font-family: "Audiowide", sans-serif;
+    overflow: hidden;
+}
+body {
+    background: url(https://media.istockphoto.com/id/935368100/vector/gold-elegance-abstract-backdrop.jpg?s=612x612&w=0&k=20&c=2DQThgQDatuSTZXDONdhoFnsy-Nq99R94PBKFF6Xbts=) no-repeat center center fixed; 
+    background-size: cover;
+    align-items : center;
+    border-radius: 20px;
+} 
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.06);
+    -webkit-backdrop-filter: blur(20px);
+            backdrop-filter: blur(20px);
+    padding: 10%;
+    padding-bottom: 13%;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    border-radius: 10px;
+} 
+.heading {
+    margin-bottom: 20px; 
+    font-size: 3rem; 
+    color: black; 
+} 
+.header { 
+    display: flex;
+    padding-bottom: 10px;
+    align-items: center;
+} 
+.errors, .cpm, .wpm {
+    background-color: #CB4335;
+    height: 60px; 
+    width: 80px; 
+    margin: 8px; 
+    padding: 12px; 
+    border-radius: 20%; 
+    box-shadow: black 5px 8px 5px; 
+}
+.timer, .accuracy {
+    background-color: #28B463;
+    height: 60px; 
+    width: 80px; 
+    margin: 8px; 
+    padding: 12px; 
+    border-radius: 20%; 
+    box-shadow: black 5px 8px 5px;
+}
+.accuracy {
+    background-color: #A569BD;
+}
+.cpm, .wpm {
+    background-color: #3498DB;
+    display: none; 
+} 
+.header_text { 
+    text-transform: uppercase; 
+    font-size: 0.65rem; 
+    font-weight: 600; 
+} 
+.curr_errors, .curr_cpm, .curr_wpm, .curr_time, .curr_accuracy {
+    font-size: 2.2rem;
+}
+.quote { 
+    background-color: #566573;
+    color: white;
+    font-size: 1.45rem; 
+    margin: 10px; 
+    padding: 25px; 
+    border-radius: 8px;
+    box-shadow: black 5px 8px 5px; 
+} 
+.input_area {
+    height: 50px; 
+    width: 45%; 
+    font-size: 1.5rem; 
+    font-weight: 600; 
+    margin: 15px; 
+    padding: 20px; 
+    border: 1px solid #000;
+    border-radius: 8px;
+    box-shadow: black 5px 8px 5px;
+    background-color: rgba(255, 255, 255, 0.06);
+    -webkit-backdrop-filter: blur(20px);
+            backdrop-filter: blur(20px);
+} 
+.restart_btn { 
+    display: none;
+    color: white;
+    background-color: #5B2C6F;
+    font-size: 1.5rem; 
+    padding: 10px; 
+    border: 0px; 
+    box-shadow: black 5px 8px 5px; 
+} 
+.incorrect_char { 
+    color: red; 
+    text-decoration: underline; 
+} 
+.correct_char { 
+    color: darkgreen; 
+}     
