@@ -86,6 +86,18 @@ body {
     background-color: #A569BD;
 }
 
+@media only screen and (max-width: 56.25em) {
+
+    .errors,
+    .cpm,
+    .wpm,
+    .timer,
+    .accuracy {
+        height: 50px;
+        width: 60px;
+    }
+}
+
 .cpm,
 .wpm {
     background-color: #3498DB;
