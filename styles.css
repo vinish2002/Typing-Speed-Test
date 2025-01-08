@@ -16,8 +16,9 @@ body {
 }
 
 .container {
+    width: 70%;
     text-align: center;
-    /* background-color: rgba(255, 255, 255, 0.06); */
+    background-color: rgba(255, 255, 255, 0.201);
     padding: 10%;
     padding-bottom: 13%;
     display: flex;
