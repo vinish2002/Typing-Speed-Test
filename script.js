@@ -130,6 +130,7 @@ function updateTimer() {
         finishGame();
     }
 }
+
 function finishGame() {
     clearInterval(timer); // stop the timer 
     input_area.disabled = true; // disable the input area
