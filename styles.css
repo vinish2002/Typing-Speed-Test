@@ -94,7 +94,7 @@ body {
     .timer,
     .accuracy {
         height: 50px;
-        width: 60px;
+        width: 70px;
     }
 }
 
@@ -112,7 +112,7 @@ body {
 
 @media only screen and (max-width: 56.25em) {
     .header_text {
-        font-size: 0.49rem;
+        font-size: 0.55rem;
     }
 }
 
@@ -122,6 +122,17 @@ body {
 .curr_time,
 .curr_accuracy {
     font-size: 2.2rem;
+}
+
+@media only screen and (max-width: 56.25em) {
+
+    .curr_errors,
+    .curr_cpm,
+    .curr_wpm,
+    .curr_time,
+    .curr_accuracy {
+        font-size: 1.8rem;
+    }
 }
 
 .quote {
