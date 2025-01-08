@@ -101,6 +101,7 @@ function startGame() {
     clearInterval(timer);
     timer = setInterval(updateTimer, 1000);
 }
+
 function resetValues() {
     timeLeft = TIME_LIMIT;
     timeElapsed = 0;
