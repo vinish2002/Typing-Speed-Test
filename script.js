@@ -53,6 +53,7 @@ function updateQuote() {
     else
         quoteNo = 0;
 }
+
 function processCurrentText() {
     curr_input = input_area.value; // get current input text and split it 
     curr_input_array = curr_input.split('');
