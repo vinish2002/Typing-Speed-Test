@@ -6,7 +6,6 @@
 
 body {
     background: url("./assets/bg.jpg") no-repeat center center fixed;
-    /* background: url(https://media.istockphoto.com/id/935368100/vector/gold-elegance-abstract-backdrop.jpg?s=612x612&w=0&k=20&c=2DQThgQDatuSTZXDONdhoFnsy-Nq99R94PBKFF6Xbts=) no-repeat center center fixed;  */
     background-size: cover;
     align-items: center;
     border-radius: 20px;
