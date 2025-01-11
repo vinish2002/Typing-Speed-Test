@@ -25,7 +25,7 @@ This app lets you **test your typing speed** by timing how fast you can type a g
 
 ## Try it Out! 🌐
 
-[Try the Typing Speed Test](https://vinish2002.github.io/Typing-Speed-Test/)
+[Try the Typing Speed Test]([https://vinish2002.github.io/Typing-Speed-Test/](https://get-your-typing-speed.netlify.app)
 
 ---
 
