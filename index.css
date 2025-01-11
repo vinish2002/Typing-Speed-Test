@@ -83,7 +83,7 @@ body {
     margin: 8px;
     padding: 12px;
     border-radius: 20%;
-    box-shadow: black 5px 8px 5px;
+    box-shadow: 5px 8px 5px;
 }
 
 .accuracy {
@@ -169,7 +169,7 @@ body {
     padding: 20px;
     border: 1px solid #000;
     border-radius: 8px;
-    box-shadow: black 0px 0px 50px;
+    box-shadow: 0px 0px 50px #000;
     background-color: rgba(255, 255, 255, 0.06);
     backdrop-filter: blur(20px);
 }
@@ -189,7 +189,7 @@ body {
     font-size: 1.5rem;
     padding: 10px;
     border: 0px;
-    box-shadow: black 5px 8px 5px;
+    box-shadow: 5px 8px 5px #000;
 }
 
 .incorrect_char {
