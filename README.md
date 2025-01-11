@@ -33,8 +33,7 @@ This app lets you **test your typing speed** by timing how fast you can type a g
 
 Here's a preview of what the app looks like:
 
-![Typing Speed Test]![image](https://github.com/user-attachments/assets/5aacfd1f-cf85-41bd-afdf-03121e24d8e2)
-
+![image](https://github.com/user-attachments/assets/ea0c484d-5ab5-4711-957d-faabf5e6ee32)
 
 ---
 
